@@ -1,0 +1,13 @@
+json5==0.8.5
+jupyter==1.0.0
+numpy
+opencv-python
+sacred==0.8.2
+scikit-image
+scikit-learn
+SimpleITK
+# torch==1.10.2
+# torchvision==0.11.2
+tqdm==4.62.3
+yacs
+matplotlib
