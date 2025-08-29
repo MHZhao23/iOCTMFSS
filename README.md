@@ -2,6 +2,18 @@
 
 ![](./iOCTMFSS.png)
 
+## ⚠️ License & Usage
+
+Copyright (c) 2025 Minghan Zhao and King's College London  
+**All rights reserved.**
+
+This repository is released under a **non-permissive license**.  
+- The code is provided **for academic review only**.  
+- **Redistribution, modification, or usage of this code, in whole or in part, is prohibited** without prior written permission from the copyright holders.  
+
+For permission requests, please contact:  
+📧 xiaotaiyangzmh@163.com
+
 ## ⏳ Quick start
 
 ### 🛠 Dependencies

@@ -8,7 +8,7 @@ import torch.backends.cudnn as cudnn
 from models.CDFSMIS import FewShotSeg
 from dataloaders.datasets import TestDataset
 from dataloaders.dataset_specifics import *
-from utils import *
+from util.utils import *
 from config import ex
 import PIL.Image as Image
 

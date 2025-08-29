@@ -10,7 +10,7 @@ from torch.utils.data import DataLoader
 from models.CDFSMIS import FewShotSeg
 from dataloaders.datasets import TestDataset
 from dataloaders.dataset_specifics import *
-from utils import *
+from util.utils import *
 from config import ex
 import cv2
 

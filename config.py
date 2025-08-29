@@ -9,7 +9,7 @@ import sacred
 from sacred import Experiment
 from sacred.observers import FileStorageObserver
 from sacred.utils import apply_backspaces_and_linefeeds
-from utils import *
+from util.utils import *
 from yacs.config import CfgNode as CN
 
 sacred.SETTINGS['CONFIG']['READ_ONLY_CONFIG'] = False

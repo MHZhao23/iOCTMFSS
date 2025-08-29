@@ -14,8 +14,8 @@ from torch.utils.data import DataLoader
 from config import ex
 from dataloaders.datasets import TrainDataset as TrainDataset
 from models.CDFSMIS import FewShotSeg
-from utils import *
-from losses import CombinedLoss
+from util.utils import *
+from util.losses import CombinedLoss
 
 def pixel_accuracy(pred, label):
     pred_flatten = pred.flatten()
